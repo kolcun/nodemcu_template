@@ -1,0 +1,11 @@
+#ifndef CREDENTIALS_H
+#define CREDENTIALS_H
+
+#define MQTT_SERVER "IP"
+#define MQTT_USER "USERNAME"
+#define MQTT_PASSWD "PASSWORD"
+
+#define WIFI_SSID "SSID"
+#define WIFI_PASSWD "PASSWORD"
+
+#endif
